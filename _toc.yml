@@ -6,4 +6,8 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: markdown-notebooks
+- file: matriks
+- file: determinan
+- file: Transformasi
+- file: tugas_animasi
+- file: Decomposisi
